@@ -1,4 +1,4 @@
-bot.py import time
+import time
 import random
 import os
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
